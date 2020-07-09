@@ -1,5 +1,5 @@
 
-Readmission_Prediction is a classification project to predict the readmission of diabetic patients within 30 days of initial admission. The dataset used is from the hospitals in the United States
+Readmission_Prediction is a classification project to predict the readmission of diabetic patients within 30 days from their initial admission. The dataset used is from the hospitals in the United States
 The main project files are:
 1)Project_Section_1- EDA
 2)Project_Section_2- Detailed Feature Engineering, Significance testing, Feature Importance, Clustering
